@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="/LICENSE"><img src=""></a>
+  <a href="/LICENSE"><img src="https://img.shields.io/github/license/guruhariharaun/Registration-and-Login-Form-in-Nodejs-and-MongoDB.svg?style=flat-square"></a>
 </p>
 
 
@@ -67,11 +67,11 @@ Tools that we need to run this app:
 npm install
 ```
 ## Connection to DataBase Access
-At line 11 on the ./server.js change ***<DB_USERNAME>*** with your DataBase UserName & ***<DB_PASSWORD>*** with your DataBase Password.
+At line 11 on ```./server.js``` change ***```<DB_USERNAME>```*** with your DataBase UserName & ***```<DB_PASSWORD>```*** with your DataBase Password.
 
 ## To Run the App
 ```
-nodemon server.js
+node server.js
 ```
 
 The server will start Running on
